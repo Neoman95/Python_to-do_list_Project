@@ -1,8 +1,7 @@
 # Main script for to-do list
-# Wystawic na Azure?
-#       Skonteneryzowac chociaz na 2
-# Terraform?
-#       Dodac noSQL MongoDB
+
+
+
 class ToDoList:
     def __init__(self):
         self.tasks = []
